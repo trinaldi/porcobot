@@ -1,0 +1,8 @@
+[Unit]
+Description=Vai ter jogo no Allianz Parque?
+
+[Service]
+Type=simple
+User=tiago
+Group=tiago
+ExecStart=/home/tiago/bin/jogos-allianz-parque/vaiterjogo.sh
