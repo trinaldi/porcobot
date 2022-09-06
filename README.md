@@ -1,4 +1,4 @@
-# Porco Bot
+# PorcoBot
 This little guy let you know if you should leave work early (or not). 
 
 ## Requirements
